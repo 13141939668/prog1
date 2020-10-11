@@ -15,7 +15,7 @@ body {
   position: absolute;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%,-50%);
 }
 
 .title-box {
@@ -26,7 +26,6 @@ body {
 .reg-box {
   display: none;
 }
-
 .layui-form {
   padding: 0 30px;
 }
